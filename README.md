@@ -1,6 +1,6 @@
 # Arch-setup-scripts
 
-This Repository contains shell scripts to use while installing Arch Linux.
+Ths Repository contains shell scripts to use while installing Arch Linux.
 Modify the content of the scripts to suit your requirements if needed.
 
 Steps to Follow :
